@@ -57,7 +57,7 @@ The Library Management System is a full-stack web application designed to stream
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/misteraddy/library-management-system.git
 cd library-management-system
 
 ### 3️⃣ Set Up Environment Variables
@@ -92,7 +92,6 @@ You can deploy the bot and admin panel using any cloud provider like AWS, Vercel
 <img src="images/Maintance.png" ><br><br>
 <img src="images/reports.png" ><br><br>
 <img src="images/report 2.png" ><br><br>
-<img src="images/report 3.png" ><br><br>
 <img src="images/report 3.png" ><br><br>
 <img src="images/um.png" ><br><br>
 <img src="images/ub.png" ><br><br>
